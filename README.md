@@ -1,3 +1,2 @@
-# Read-me
 
 Hello, everyone.
