@@ -1,2 +1,2 @@
 Hi.
-I am a talented full stack develoer.
+I am a talented full stack developer.
