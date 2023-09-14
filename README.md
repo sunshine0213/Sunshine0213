@@ -10,7 +10,7 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 * 🚀  I'm currently working on **A tool to solve my day to day problems**
 * 🧠  I'm learning Software Design Patterns, Prisma , Golang, Typescript, DSA
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend / Platform(Wordpress, WIX, Shopify, Ec-cube).
-* ⚡  Ask me about React, Next, Typescript, Nodejs, Golang, Django, MySQL, PostgreSQL
+* ⚡  Ask me about React, Next, Typescript, Web3js, Laravel, Symfony, CI, Nodejs, Express, Golang, Django, MySQL, PostgreSQL, MongoDB
 
 ### Skills
 
