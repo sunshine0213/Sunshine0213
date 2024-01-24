@@ -1,4 +1,4 @@
-Hi 👋,I'm Kyle..
+Hi 👋
 
 Full Stack Developer
 ---------------------
