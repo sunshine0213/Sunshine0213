@@ -1,6 +1,6 @@
 Hi 👋
 
-Full Stack Developer
+Senior Full Stack and Blockchain Developer
 ---------------------
 
 Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.That's why I’m excited to make a big impact at a high growth company
@@ -9,7 +9,7 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 * 🚀  I'm currently working on **A tool to solve my day to day problems**
 * 🧠  I'm learning Software Design Patterns, Prisma , Golang, Typescript, DSA
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Backend / Platform(Wordpress, WIX, Shopify, Ec-cube).
-* ⚡  Ask me about React, Next, Typescript, Web3js, Laravel, Symfony, CI, Nodejs, Express, Golang, Django, MySQL, PostgreSQL, MongoDB
+* ⚡  Ask me about React, Next, Typescript, Vuejs, Web3js, Solidity, Rust, smart contract, Laravel, Symfony, CI, Nodejs, Express, Golang, Django, MySQL, PostgreSQL, MongoDB
 
 ### Skills
 
